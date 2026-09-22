@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "AdaPruner-KGQA"
+message: "If you use this software, please cite our work."
+type: software
+
+authors:
+  - family-names: "Khan"
+    given-names: "Md Sadman Sami"
+  - family-names: "Nath"
+    given-names: "Rudra Pratap Deb"
+
+repository-code: "https://github.com/sadmantihan/AdaPruner-KGQA"
